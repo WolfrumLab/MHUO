@@ -1,0 +1,6 @@
+SAMPLE_DIR:
+        ""
+REF_DIR:
+        "cellSNP_vcfs"
+REF_VCF_NAME:
+        "genome1K.phase3.SNP_AF5e2.chr1toX.hg38"
