@@ -20,7 +20,7 @@ Precision medicine is still not considered as a standard of care in obesity trea
 * `SNPdemux`: Contains code to run SNP demultiplexing using cellSNP and vireo
 * `Rscripts`: Contains scripts used to analyze data
   * `bulkRNA`: DE analysis, Bisque deconvolution, Clinical correlations
-  * `snRNA`: Pre-processing, Sample integration, Cell type re-clustering, Multi-cellular factor analysis 
+  * `snRNA`: Pre-processing, Sample integration, Multi-cellular factor analysis, Cell type re-clustering
 
 
 ## Contact
