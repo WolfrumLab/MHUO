@@ -29,4 +29,5 @@ Precision medicine is still not considered as a standard of care in obesity trea
 
 ## Contact
 For questions regarding data analysis, please write to adhideb.ghosh[AT]hest.ethz.ch. <p>
+For questions regarding web applications, please write to falnoe[AT]ethz.ch. <p>
 Corresponding authors: Matthias Blüher (matthias.blueher[AT]medizin.uni-leipzig.de) and Christian Wolfrum (christian-wolfrum[AT]ethz.ch).
