@@ -49,7 +49,7 @@ normCounts <- assay(vsd)
 # Combine normalized counts with gene annotations
 normCounts_df <- merge(geneAnnotation, as.data.frame(normCounts), by.x="gene_id", by.y="row.names")
 
-write_tsv(normCounts, "visAT_MHUO_corCountsEMR.tsv")
+write_tsv(normCounts, "MHUO_normCounts.tsv")
 
 ##########################################################################################################################################
 
