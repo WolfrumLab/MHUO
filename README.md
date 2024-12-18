@@ -13,12 +13,6 @@ Precision medicine is still not considered as a standard of care in obesity trea
 &emsp;[snRNAseq: subcutaneous AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_scAT) <p>
 &emsp;[snRNAseq: visceral AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_visAT) <p>
 
-## Description
-This repo contains scripts to replicate results of our current study, as well as the source data and CellTypist models trained on this data set.  
-Link to publication: https://www.nature.com/articles/s41467-023-36983-2  
-Link to snSeq data: (https://doi.org/10.17632/y3pxvr4xbf.2)
-
-
 ## Content
 
 * `CellTypist`: CellTypist models trained on integrated data
@@ -34,5 +28,5 @@ Link to snSeq data: (https://doi.org/10.17632/y3pxvr4xbf.2)
 
 
 ## Contact
-For questions regarding data analysis, please write to adhideb.ghosh@hest.ethz.ch
-Corresponding authors: Matthias Blüher (matthias.blueher@medizin.uni-leipzig.de) and Christian Wolfrum (christian-wolfrum@ethz.ch)
+For questions regarding data analysis, please write to adhideb.ghosh[AT]hest.ethz.ch. <p>
+Corresponding authors: Matthias Blüher (matthias.blueher[AT]medizin.uni-leipzig.de) and Christian Wolfrum (christian-wolfrum[AT]ethz.ch).
