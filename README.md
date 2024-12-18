@@ -9,9 +9,9 @@ Precision medicine is still not considered as a standard of care in obesity trea
 ![Graphical Abstract](/images/graphical_abstract.png)
 
 ## Interactive web apps to explore data
-&emsp;[bulkRNAseq](https://fgcz-shiny.uzh.ch/tnb_ethz_exploreMHUO) <p>
-&emsp;[snRNAseq: subcutaneous AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_scAT) <p>
-&emsp;[snRNAseq: visceral AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_visAT) <p>
+&emsp;[App to explore correlations between bulk gene expression and clinical parameters](https://fgcz-shiny.uzh.ch/tnb_ethz_exploreMHUO)  <p>
+&emsp;[App to explore snRNAseq data from subcutaneous AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_scAT) <p>
+&emsp;[App to explore snRNAseq data from visceral AT](https://fgcz-shiny.uzh.ch/tnb_ethz_snMHUO_visAT) <p>
 
 ## Content
 
