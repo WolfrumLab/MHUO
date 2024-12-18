@@ -10,6 +10,9 @@ dataRoot <- "/srv/gstore/projects"  # Change this to the actual path of your dat
 de_output_dataset <- "/path/to/dataset.tsv"  # Change to actual path of output
 input_dataset <- EzDataset$new(file = input_dataset, dataRoot = dataRoot)
 
+## change to corresponding sample list for sc
+sampleList <- c("vis-1033", "vis-1037", "vis-1083", "vis-1144", "vis-1162", "vis-1190", "vis-1199", "vis-1202", "vis-1222", "vis-1254", "vis-1264", "vis-1274", "vis-1282", "vis-1284", "vis-1298", "vis-1303", "vis-1307", "vis-1349", "vis-1375", "vis-1394", "vis-1424", "vis-1444", "vis-1459", "vis-1468", "vis-1480", "vis-1491", "vis-1493", "vis-1497", "vis-1498", "vis-1562", "vis-1583", "vis-1710", "vis-1713", "vis-1993", "vis-2010", "vis-2081", "vis-2086", "vis-2088", "vis-2091", "vis-2107", "vis-2111", "vis-2115", "vis-2162", "vis-2171", "vis-2195", "vis-2199", "vis-223", "vis-228", "vis-2335", "vis-2438", "vis-2447", "vis-2598", "vis-2714", "vis-2883", "vis-2898", "vis-3036", "vis-314", "vis-3202", "vis-458", "vis-497", "vis-615", "vis-627", "vis-650", "vis-665", "vis-695", "vis-715", "vis-743", "vis-750", "vis-784", "vis-794", "vis-833", "vis-880", "vis-945", "vis-949")
+
 # Load output dataset
 output_dataset <- EzDataset$new(file = de_output_dataset, dataRoot = dataRoot)
 
@@ -20,7 +23,7 @@ params <- list(
   scratch = 10,
   partition = "employee",
   process_mode = "DATASET",
-  samples = c("vis-1033", "vis-1037", "vis-1083", "vis-1144", "vis-1162", "vis-1190", "vis-1199", "vis-1202", "vis-1222", "vis-1254", "vis-1264", "vis-1274", "vis-1282", "vis-1284", "vis-1298", "vis-1303", "vis-1307", "vis-1349", "vis-1375", "vis-1394", "vis-1424", "vis-1444", "vis-1459", "vis-1468", "vis-1480", "vis-1491", "vis-1493", "vis-1497", "vis-1498", "vis-1562", "vis-1583", "vis-1710", "vis-1713", "vis-1993", "vis-2010", "vis-2081", "vis-2086", "vis-2088", "vis-2091", "vis-2107", "vis-2111", "vis-2115", "vis-2162", "vis-2171", "vis-2195", "vis-2199", "vis-223", "vis-228", "vis-2335", "vis-2438", "vis-2447", "vis-2598", "vis-2714", "vis-2883", "vis-2898", "vis-3036", "vis-314", "vis-3202", "vis-458", "vis-497", "vis-615", "vis-627", "vis-650", "vis-665", "vis-695", "vis-715", "vis-743", "vis-750", "vis-784", "vis-794", "vis-833", "vis-880", "vis-945", "vis-949"),
+  samples = sampleList,
   refBuild = "Homo_sapiens/GENCODE/GRCh38.p13/Annotation/Release_32-2019-11-05",
   refFeatureFile = "genes.gtf",
   featureLevel = "gene",
