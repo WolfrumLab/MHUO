@@ -18,13 +18,9 @@ Precision medicine is still not considered as a standard of care in obesity trea
 * `DEGs`: Contains tissue and cell type specific DEGs for subcutaneous / visceral AT
 * `MarkerGenes`: Contains cell type and subpopulation specific top marker genes for subcutaneous / visceral AT
 * `SNPdemux`: Contains code to run SNP demultiplexing using cellSNP and vireo
-* `Rscripts`: contains scripts used to analyze data
-  * `bulk deconvolution`: depots specific and clinical RNA seq deconvolution
-  * `Cell Types`: Sublcustering
-  * `Integration`: Tested integration methods
-  * `Network`: Marker gene comparison before integration
-  * `Spatial_Deconvolution`: Code to replicate spatial deconvolution
-
+* `Rscripts`: Contains scripts used to analyze data
+  * `bulkRNA`: DE analysis, Bisque deconvolution, Clinical correlations
+  * `snRNA`: Pre-processing, Sample integration, Cell type re-clustering, Multi-cellular factor analysis 
 
 
 ## Contact
