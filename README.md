@@ -17,7 +17,7 @@ Precision medicine is still not considered as a standard of care in obesity trea
 
 * `DEGs`: Contains tissue and cell type specific DEGs for subcutaneous / visceral AT
 * `MarkerGenes`: Contains cell type and subpopulation specific top marker genes for subcutaneous / visceral AT
-* `Source Data`: Source data for figure panels in the manuscript
+* `SNPdemux`: Contains code to run SNP demultiplexing using cellSNP and vireo
 * `Rscripts`: contains scripts used to analyze data
   * `bulk deconvolution`: depots specific and clinical RNA seq deconvolution
   * `Cell Types`: Sublcustering
