@@ -6,7 +6,7 @@ This repository contains code and files related to the manuscript [Unveiling Adi
 ## Abstract
 Precision medicine is still not considered as a standard of care in obesity treatment, despite a large heterogeneity in the metabolic phenotype of individuals with obesity. One of the strongest factors influencing the variability in metabolic disease risk is adipose tissue (AT) dysfunction; however, there is little understanding of the link between distinct cell populations, cell-type-specific transcriptional programs, and disease severity. Here, we generated a comprehensive cellular map of subcutaneous and visceral AT of individuals with metabolically healthy and unhealthy obesity. By combining single-nucleus RNA-sequencing data with bulk transcriptomics and clinical parameters, we identified that mesothelial cells, adipocytes, and adipocyte-progenitor cells exhibit the strongest correlation with metabolic disease. Furthermore, we uncovered cell-specific transcriptional programs, such as the transitioning of mesothelial cells to a mesenchymal phenotype, that are involved in uncoupling obesity from metabolic disease. Together, these findings provide valuable insights by revealing biological drivers of clinical endpoints.
 
-![Graphical Abstract](/images/graphical_abstract.pdf)
+![Graphical Abstract](/images/graphical_abstract.png)
 
 ## Interactive web apps to explore data
 &emsp;[bulkRNAseq](https://fgcz-shiny.uzh.ch/tnb_ethz_exploreMHUO) <p>
