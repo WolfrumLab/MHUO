@@ -12,6 +12,8 @@ Precision medicine is still not considered as a standard of care in obesity trea
 &emsp;[App to explore correlations between bulk gene expression and clinical parameters](https://shiny-public.fgcz.uzh.ch/app/tnb_ethz_exploreMHUO) <p>
 &emsp;[App to explore snRNAseq data from subcutaneous AT](https://shiny-public.fgcz.uzh.ch/app/tnb_ethz_snMHUO_scAT) <p>
 &emsp;[App to explore snRNAseq data from visceral AT](https://shiny-public.fgcz.uzh.ch/app/tnb_ethz_snMHUO_visAT) <p>
+&emsp;[Human snRNAseq datasets in Human Cell Atlas](https://celltype.info/project/861)
+
 
 ## Content
 
